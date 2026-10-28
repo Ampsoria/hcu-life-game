@@ -11,7 +11,7 @@
   &nbsp;·&nbsp;
   <a href="#local-play">เปิดในเครื่อง</a>
   &nbsp;·&nbsp;
-  <a href="#github-upload">นำขึ้น GitHub</a>
+  <a href="#source-code">ซอร์สโค้ด</a>
 </p>
 
 <p align="center">
@@ -75,15 +75,15 @@ npx wrangler deploy
 
 ถ้าใช้ Cloudflare Pages ให้ตั้ง build command ว่าง และ output directory เป็น `dist` การอัปโหลดซอร์สขึ้น GitHub อย่างเดียวจะยังไม่อัปเดตเว็บบน Cloudflare จนกว่าจะเชื่อมการ deploy หรือรันคำสั่ง deploy เอง
 
-<a id="github-upload"></a>
+<a id="source-code"></a>
 
-## 🗃️ วิธีนำโปรเจกต์ขึ้น GitHub
+## 🗃️ ซอร์สโค้ดบน GitHub
 
-โฟลเดอร์นี้เตรียม Git repository สาขา `main` ไว้แล้ว ให้สร้าง **repository ว่าง** บน GitHub แล้วเพิ่ม remote และ push (เปลี่ยน URL ตามชื่อ repository ที่สร้าง):
+Repository: **[Ampsoria/hcu-life-game](https://github.com/Ampsoria/hcu-life-game)**
 
 ```sh
-git remote add origin https://github.com/Ampsoria/Amp_1in5000HCU.git
-git push -u origin main
+git clone git@github.com:Ampsoria/hcu-life-game.git
+cd hcu-life-game
 ```
 
 ไฟล์ `dist/` เป็นตัวเกมจริงและอยู่ใน Git ส่วนแคช `.wrangler/`, ไฟล์ `.env`, ไฟล์ระบบ และ ZIP สำหรับอัปโหลดตรงถูกกันไว้ใน `.gitignore` ปุ่มเล่นเกมใน README ชี้ไปยังเว็บที่โฮสต์บน **Cloudflare**
