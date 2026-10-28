@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://hculife.ampcs66.workers.dev/">
-    <img src="promo/hcu-life-promo-instagram-feed.png" alt="ภาพโปรโมตเกม 1 ใน 6,300 คน สไตล์พิกเซลอาร์ต พร้อมตัวอย่างหน้าจอเกมและผลลัพธ์" width="560">
+    <img src="promo/hcu-life-promo-instagram-feed-badges.png" alt="ภาพโปรโมตเกม 1 ใน 6,300 คน พร้อมตัวอย่างหน้าจอเกม ผลลัพธ์ และ 3 Badge" width="560">
   </a>
 </p>
 
