@@ -1,0 +1,16 @@
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Cloudflare Wrangler local state and credentials
+.wrangler/
+.dev.vars*
+
+# Local secrets and installed dependencies
+.env
+.env.*
+!.env.example
+node_modules/
+
+# Generated direct-upload archive (the deployable files are in dist/)
+hcu-life-pages-upload.zip

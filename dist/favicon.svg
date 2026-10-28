@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">1 HCU</title>
+  <desc id="desc">เลข 1 สีทองและคำว่า HCU สีครีมบนพื้นสีแดงเลือดหมู</desc>
+  <rect width="64" height="64" rx="13" fill="#8F1D29"/>
+  <rect x="4" y="4" width="56" height="56" rx="10" fill="none" stroke="#FFCB05" stroke-width="2"/>
+  <path d="M20 18 31 9h8v31h5v6H20v-6h11V20l-8 6Z" fill="#FFCB05"/>
+  <path d="M14 48v9m8-9v9m-8-4.5h8M36 49c-5-2-9 0-9 3.5S31 58 36 56m5-8v5c0 5 9 5 9 0v-5" fill="none" stroke="#FFF9E9" stroke-width="2.8" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
