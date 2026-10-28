@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" role="img" aria-labelledby="title desc">
+  <title id="title">PRESS START — เล่นเกมบน Cloudflare</title>
+  <desc id="desc">แบนเนอร์สไตล์เกมเรโทรสีแดงเลือดหมูและทอง กดเพื่อเริ่มเกม 1 ใน 6,300 คน</desc>
+  <g shape-rendering="crispEdges">
+    <path fill="#3f1820" d="M16 16h768v164H16z"/>
+    <path fill="#ffcb05" d="M0 0h784v164H0z"/>
+    <path fill="#8f1d29" d="M8 8h768v148H8z"/>
+    <path fill="#ffe9a5" d="M18 18h748v2H18zM18 144h748v2H18zM18 20h2v124h-2zM764 20h2v124h-2z"/>
+
+    <path fill="#ffcb05" d="M42 42h84v84H42z"/>
+    <path fill="#fff9e9" d="M48 48h72v72H48z"/>
+    <path fill="#8f1d29" d="M54 54h60v60H54z"/>
+    <path fill="#ffcb05" d="M62 69h9v-9h18v9h9v9h-9v9H71v-9h-9zM76 56h8v36h-8zM58 74h44v8H58z"/>
+    <path fill="#fff9e9" d="M72 101h32v5H72z"/>
+
+    <path fill="#ffcb05" d="M144 34h6v6h-6zM156 28h6v6h-6zM168 34h6v6h-6zM174 46h6v6h-6zM150 46h6v6h-6zM642 116h6v6h-6zM654 110h6v6h-6zM666 116h6v6h-6z"/>
+    <path fill="#f5a84b" d="M138 124h6v6h-6zM146 132h6v6h-6zM674 36h6v6h-6zM682 44h6v6h-6z"/>
+
+    <path fill="#4b1621" d="M704 51h49v62h-49z"/>
+    <path fill="#ffcb05" d="M697 44h49v62h-49z"/>
+    <path fill="#8f1d29" d="M705 52h33v46h-33z"/>
+    <path fill="#fff9e9" d="M714 62h8v8h8v8h-8v8h-8v-8h-8v-8h8z"/>
+  </g>
+
+  <text x="401" y="83" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="46" font-weight="900" letter-spacing="2" fill="#4b1621">PRESS START</text>
+  <text x="398" y="79" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="46" font-weight="900" letter-spacing="2" fill="#ffcb05">PRESS START</text>
+  <text x="398" y="119" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="21" font-weight="700" fill="#fff9e9">เล่นเกม 1 ใน 6,300 คน บน Cloudflare</text>
+</svg>

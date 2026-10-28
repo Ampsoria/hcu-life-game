@@ -7,8 +7,10 @@
 <p align="center"><code>HCU LIFE / 2569</code> · เกมจำลองชีวิตนักศึกษา 4 ปี · หนึ่งชีวิต หนึ่งเส้นทาง</p>
 
 <p align="center">
-  <a href="https://hculife.ampcs66.workers.dev/"><strong>▶ PRESS START — เล่นเกมบน Cloudflare</strong></a>
-  &nbsp;·&nbsp;
+  <a href="https://hculife.ampcs66.workers.dev/"><img src="promo/readme-press-start.svg" alt="PRESS START — คลิกเพื่อเล่นเกมบน Cloudflare" width="660"></a>
+</p>
+
+<p align="center">
   <a href="#local-play">เปิดในเครื่อง</a>
   &nbsp;·&nbsp;
   <a href="#source-code">ซอร์สโค้ด</a>
